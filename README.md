@@ -15,6 +15,12 @@ Since I am GPU poor, I used Kaggle to train the models, and had limited (10 -12 
 ## WandB Logging
 All training and monitoring activities were logged on my Weights and Biases (Wandb) dashboard, facilitating visualization of the training process and enabling effective tracking of underperformance or overfitting cycles.
 
+Here reports on Wandb:
+
+[Model Trainings on Wandb](https://wandb.ai/lawjarp/rai_ablation_study/reports/Monitoring-Training-at-a-Glance--Vmlldzo3ODQzNzEw?accessToken=4wn7qq7fm4gizeo43w89l552ph378jfug8nmy9eodda5ixroc34ihqiiddproy31)
+
+[Ablation Study on Wandb](https://wandb.ai/lawjarp/rai_ablation_study/reports/Monitoring-Training-at-a-Glance--Vmlldzo3ODQzNjgy?accessToken=ysgvcjdg8xrz93tj0zztclk3dmvar0aqrr2xe86xiq8tsjuui3ajgrm6ajr3ukpj)
+
 ## Hyperparameters
 - Batch size: 128
 - Image size: 224
