@@ -50,4 +50,5 @@ Here reports on Wandb:
 | EfficientNet B0        | 128x128    | 0.61            | 0.58          |
 | EfficientNet B0 with augmentation | 128x128 | 0.552       | 0.557         |
 
-This study provides valuable insights into the performance and characteristics of various deep neural network architectures, contributing to the understanding of their applicability and effectiveness in image classification tasks.
+- Augmentation helps prevent overfitting thought it takes time to train comapred to without
+- The image size very much matters when it comes to acucracy in CNN's as more pixels, more features for those filters to extract
